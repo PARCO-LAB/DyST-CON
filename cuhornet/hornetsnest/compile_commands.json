@@ -1,0 +1,104 @@
+[
+{
+  "directory": "/home/z1ko/univr/tesi/cuhornet/hornetsnest",
+  "command": "/usr/bin/c++  -I/usr/local/cuda-11.8/targets/x86_64-linux/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../primitives -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../xlib/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../externals/cub-1.8.0 -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../hornet/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/include -I/home/z1ko/univr/tesi/envs/rmm_dev/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/src/Static/BetweennessCentrality  -Werror -Wall -Wno-reorder -Wno-error=deprecated-declarations -DCUB_WRAPPER -fopenmp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/hornetAlg.dir/home/z1ko/univr/tesi/cuhornet/xlib/src/Device/Util/CudaUtil.cpp.o -c /home/z1ko/univr/tesi/cuhornet/xlib/src/Device/Util/CudaUtil.cpp",
+  "file": "/home/z1ko/univr/tesi/cuhornet/xlib/src/Device/Util/CudaUtil.cpp",
+  "output": "CMakeFiles/hornetAlg.dir/home/z1ko/univr/tesi/cuhornet/xlib/src/Device/Util/CudaUtil.cpp.o"
+},
+{
+  "directory": "/home/z1ko/univr/tesi/cuhornet/hornetsnest",
+  "command": "/usr/bin/c++  -I/usr/local/cuda-11.8/targets/x86_64-linux/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../primitives -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../xlib/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../externals/cub-1.8.0 -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../hornet/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/include -I/home/z1ko/univr/tesi/envs/rmm_dev/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/src/Static/BetweennessCentrality  -Werror -Wall -Wno-reorder -Wno-error=deprecated-declarations -DCUB_WRAPPER -fopenmp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/hornetAlg.dir/home/z1ko/univr/tesi/cuhornet/xlib/src/Device/Util/DeviceProperties.cpp.o -c /home/z1ko/univr/tesi/cuhornet/xlib/src/Device/Util/DeviceProperties.cpp",
+  "file": "/home/z1ko/univr/tesi/cuhornet/xlib/src/Device/Util/DeviceProperties.cpp",
+  "output": "CMakeFiles/hornetAlg.dir/home/z1ko/univr/tesi/cuhornet/xlib/src/Device/Util/DeviceProperties.cpp.o"
+},
+{
+  "directory": "/home/z1ko/univr/tesi/cuhornet/hornetsnest",
+  "command": "/usr/bin/c++  -I/usr/local/cuda-11.8/targets/x86_64-linux/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../primitives -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../xlib/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../externals/cub-1.8.0 -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../hornet/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/include -I/home/z1ko/univr/tesi/envs/rmm_dev/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/src/Static/BetweennessCentrality  -Werror -Wall -Wno-reorder -Wno-error=deprecated-declarations -DCUB_WRAPPER -fopenmp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/hornetAlg.dir/home/z1ko/univr/tesi/cuhornet/xlib/src/Device/Util/SafeCudaAPI.cpp.o -c /home/z1ko/univr/tesi/cuhornet/xlib/src/Device/Util/SafeCudaAPI.cpp",
+  "file": "/home/z1ko/univr/tesi/cuhornet/xlib/src/Device/Util/SafeCudaAPI.cpp",
+  "output": "CMakeFiles/hornetAlg.dir/home/z1ko/univr/tesi/cuhornet/xlib/src/Device/Util/SafeCudaAPI.cpp.o"
+},
+{
+  "directory": "/home/z1ko/univr/tesi/cuhornet/hornetsnest",
+  "command": "/usr/bin/c++  -I/usr/local/cuda-11.8/targets/x86_64-linux/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../primitives -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../xlib/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../externals/cub-1.8.0 -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../hornet/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/include -I/home/z1ko/univr/tesi/envs/rmm_dev/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/src/Static/BetweennessCentrality  -Werror -Wall -Wno-reorder -Wno-error=deprecated-declarations -DCUB_WRAPPER -fopenmp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/hornetAlg.dir/home/z1ko/univr/tesi/cuhornet/xlib/src/Graph/GraphBase.cpp.o -c /home/z1ko/univr/tesi/cuhornet/xlib/src/Graph/GraphBase.cpp",
+  "file": "/home/z1ko/univr/tesi/cuhornet/xlib/src/Graph/GraphBase.cpp",
+  "output": "CMakeFiles/hornetAlg.dir/home/z1ko/univr/tesi/cuhornet/xlib/src/Graph/GraphBase.cpp.o"
+},
+{
+  "directory": "/home/z1ko/univr/tesi/cuhornet/hornetsnest",
+  "command": "/usr/bin/c++  -I/usr/local/cuda-11.8/targets/x86_64-linux/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../primitives -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../xlib/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../externals/cub-1.8.0 -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../hornet/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/include -I/home/z1ko/univr/tesi/envs/rmm_dev/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/src/Static/BetweennessCentrality  -Werror -Wall -Wno-reorder -Wno-error=deprecated-declarations -DCUB_WRAPPER -fopenmp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/hornetAlg.dir/home/z1ko/univr/tesi/cuhornet/xlib/src/Graph/GraphStd.cpp.o -c /home/z1ko/univr/tesi/cuhornet/xlib/src/Graph/GraphStd.cpp",
+  "file": "/home/z1ko/univr/tesi/cuhornet/xlib/src/Graph/GraphStd.cpp",
+  "output": "CMakeFiles/hornetAlg.dir/home/z1ko/univr/tesi/cuhornet/xlib/src/Graph/GraphStd.cpp.o"
+},
+{
+  "directory": "/home/z1ko/univr/tesi/cuhornet/hornetsnest",
+  "command": "/usr/bin/c++  -I/usr/local/cuda-11.8/targets/x86_64-linux/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../primitives -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../xlib/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../externals/cub-1.8.0 -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../hornet/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/include -I/home/z1ko/univr/tesi/envs/rmm_dev/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/src/Static/BetweennessCentrality  -Werror -Wall -Wno-reorder -Wno-error=deprecated-declarations -DCUB_WRAPPER -fopenmp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/hornetAlg.dir/home/z1ko/univr/tesi/cuhornet/xlib/src/Graph/GraphStdRead.cpp.o -c /home/z1ko/univr/tesi/cuhornet/xlib/src/Graph/GraphStdRead.cpp",
+  "file": "/home/z1ko/univr/tesi/cuhornet/xlib/src/Graph/GraphStdRead.cpp",
+  "output": "CMakeFiles/hornetAlg.dir/home/z1ko/univr/tesi/cuhornet/xlib/src/Graph/GraphStdRead.cpp.o"
+},
+{
+  "directory": "/home/z1ko/univr/tesi/cuhornet/hornetsnest",
+  "command": "/usr/bin/c++  -I/usr/local/cuda-11.8/targets/x86_64-linux/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../primitives -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../xlib/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../externals/cub-1.8.0 -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../hornet/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/include -I/home/z1ko/univr/tesi/envs/rmm_dev/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/src/Static/BetweennessCentrality  -Werror -Wall -Wno-reorder -Wno-error=deprecated-declarations -DCUB_WRAPPER -fopenmp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/hornetAlg.dir/home/z1ko/univr/tesi/cuhornet/xlib/src/Graph/GraphWeight.cpp.o -c /home/z1ko/univr/tesi/cuhornet/xlib/src/Graph/GraphWeight.cpp",
+  "file": "/home/z1ko/univr/tesi/cuhornet/xlib/src/Graph/GraphWeight.cpp",
+  "output": "CMakeFiles/hornetAlg.dir/home/z1ko/univr/tesi/cuhornet/xlib/src/Graph/GraphWeight.cpp.o"
+},
+{
+  "directory": "/home/z1ko/univr/tesi/cuhornet/hornetsnest",
+  "command": "/usr/bin/c++  -I/usr/local/cuda-11.8/targets/x86_64-linux/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../primitives -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../xlib/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../externals/cub-1.8.0 -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../hornet/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/include -I/home/z1ko/univr/tesi/envs/rmm_dev/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/src/Static/BetweennessCentrality  -Werror -Wall -Wno-reorder -Wno-error=deprecated-declarations -DCUB_WRAPPER -fopenmp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/hornetAlg.dir/home/z1ko/univr/tesi/cuhornet/xlib/src/Graph/GraphWeightRead.cpp.o -c /home/z1ko/univr/tesi/cuhornet/xlib/src/Graph/GraphWeightRead.cpp",
+  "file": "/home/z1ko/univr/tesi/cuhornet/xlib/src/Graph/GraphWeightRead.cpp",
+  "output": "CMakeFiles/hornetAlg.dir/home/z1ko/univr/tesi/cuhornet/xlib/src/Graph/GraphWeightRead.cpp.o"
+},
+{
+  "directory": "/home/z1ko/univr/tesi/cuhornet/hornetsnest",
+  "command": "/usr/bin/c++  -I/usr/local/cuda-11.8/targets/x86_64-linux/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../primitives -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../xlib/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../externals/cub-1.8.0 -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../hornet/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/include -I/home/z1ko/univr/tesi/envs/rmm_dev/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/src/Static/BetweennessCentrality  -Werror -Wall -Wno-reorder -Wno-error=deprecated-declarations -DCUB_WRAPPER -fopenmp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/hornetAlg.dir/home/z1ko/univr/tesi/cuhornet/xlib/src/Host/FileUtil.cpp.o -c /home/z1ko/univr/tesi/cuhornet/xlib/src/Host/FileUtil.cpp",
+  "file": "/home/z1ko/univr/tesi/cuhornet/xlib/src/Host/FileUtil.cpp",
+  "output": "CMakeFiles/hornetAlg.dir/home/z1ko/univr/tesi/cuhornet/xlib/src/Host/FileUtil.cpp.o"
+},
+{
+  "directory": "/home/z1ko/univr/tesi/cuhornet/hornetsnest",
+  "command": "/usr/bin/c++  -I/usr/local/cuda-11.8/targets/x86_64-linux/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../primitives -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../xlib/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../externals/cub-1.8.0 -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../hornet/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/include -I/home/z1ko/univr/tesi/envs/rmm_dev/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/src/Static/BetweennessCentrality  -Werror -Wall -Wno-reorder -Wno-error=deprecated-declarations -DCUB_WRAPPER -fopenmp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/hornetAlg.dir/home/z1ko/univr/tesi/cuhornet/xlib/src/Host/PrintExt.cpp.o -c /home/z1ko/univr/tesi/cuhornet/xlib/src/Host/PrintExt.cpp",
+  "file": "/home/z1ko/univr/tesi/cuhornet/xlib/src/Host/PrintExt.cpp",
+  "output": "CMakeFiles/hornetAlg.dir/home/z1ko/univr/tesi/cuhornet/xlib/src/Host/PrintExt.cpp.o"
+},
+{
+  "directory": "/home/z1ko/univr/tesi/cuhornet/hornetsnest",
+  "command": "/usr/bin/c++  -I/usr/local/cuda-11.8/targets/x86_64-linux/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../primitives -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../xlib/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../externals/cub-1.8.0 -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../hornet/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/include -I/home/z1ko/univr/tesi/envs/rmm_dev/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/src/Static/BetweennessCentrality  -Werror -Wall -Wno-reorder -Wno-error=deprecated-declarations -DCUB_WRAPPER -fopenmp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/hornetAlg.dir/home/z1ko/univr/tesi/cuhornet/hornet/src/Util/BatchFunctions.cpp.o -c /home/z1ko/univr/tesi/cuhornet/hornet/src/Util/BatchFunctions.cpp",
+  "file": "/home/z1ko/univr/tesi/cuhornet/hornet/src/Util/BatchFunctions.cpp",
+  "output": "CMakeFiles/hornetAlg.dir/home/z1ko/univr/tesi/cuhornet/hornet/src/Util/BatchFunctions.cpp.o"
+},
+{
+  "directory": "/home/z1ko/univr/tesi/cuhornet/hornetsnest",
+  "command": "/usr/bin/c++  -I/usr/local/cuda-11.8/targets/x86_64-linux/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../primitives -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../xlib/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../externals/cub-1.8.0 -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/../hornet/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/include -I/home/z1ko/univr/tesi/envs/rmm_dev/include -I/home/z1ko/univr/tesi/cuhornet/hornetsnest/src/Static/BetweennessCentrality  -Werror -Wall -Wno-reorder -Wno-error=deprecated-declarations -DCUB_WRAPPER -fopenmp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/hornetAlg.dir/home/z1ko/univr/tesi/cuhornet/hornet/src/Util/CommandLineParam.cpp.o -c /home/z1ko/univr/tesi/cuhornet/hornet/src/Util/CommandLineParam.cpp",
+  "file": "/home/z1ko/univr/tesi/cuhornet/hornet/src/Util/CommandLineParam.cpp",
+  "output": "CMakeFiles/hornetAlg.dir/home/z1ko/univr/tesi/cuhornet/hornet/src/Util/CommandLineParam.cpp.o"
+},
+{
+  "directory": "/home/z1ko/univr/tesi/cuhornet/hornetsnest",
+  "command": "/usr/local/cuda-11.8/bin/nvcc -forward-unknown-to-host-compiler  --options-file CMakeFiles/hornetAlg.dir/includes_CUDA.rsp  -gencode arch=compute_60,code=sm_60 -gencode arch=compute_70,code=sm_70 -gencode arch=compute_75,code=sm_75 -gencode arch=compute_80,code=sm_80 -gencode arch=compute_86,code=sm_86 -gencode arch=compute_89,code=sm_89 -gencode arch=compute_90,code=sm_90 -gencode arch=compute_90,code=compute_90 --expt-extended-lambda --expt-relaxed-constexpr -Werror cross-execution-space-call -Xcompiler -Wall,-Werror,-Wno-reorder,-Wno-error=deprecated-declarations -DCUB_WRAPPER -Xcompiler=-fopenmp --define-macro USE_NVTX -O3 -DNDEBUG -std=c++17 --generate-code=arch=compute_60,code=[compute_60,sm_60] --generate-code=arch=compute_70,code=[compute_70,sm_70] --generate-code=arch=compute_75,code=[compute_75,sm_75] --generate-code=arch=compute_80,code=[compute_80,sm_80] --generate-code=arch=compute_86,code=[compute_86,sm_86] --generate-code=arch=compute_89,code=[compute_89,sm_89] --generate-code=arch=compute_90,code=[compute_90,sm_90] -x cu -c /home/z1ko/univr/tesi/cuhornet/hornetsnest/src/Static/Dummy/Dummy.cu -o CMakeFiles/hornetAlg.dir/src/Static/Dummy/Dummy.cu.o",
+  "file": "/home/z1ko/univr/tesi/cuhornet/hornetsnest/src/Static/Dummy/Dummy.cu",
+  "output": "CMakeFiles/hornetAlg.dir/src/Static/Dummy/Dummy.cu.o"
+},
+{
+  "directory": "/home/z1ko/univr/tesi/cuhornet/hornetsnest",
+  "command": "/usr/local/cuda-11.8/bin/nvcc -forward-unknown-to-host-compiler  --options-file CMakeFiles/bfs2.dir/includes_CUDA.rsp  -gencode arch=compute_60,code=sm_60 -gencode arch=compute_70,code=sm_70 -gencode arch=compute_75,code=sm_75 -gencode arch=compute_80,code=sm_80 -gencode arch=compute_86,code=sm_86 -gencode arch=compute_89,code=sm_89 -gencode arch=compute_90,code=sm_90 -gencode arch=compute_90,code=compute_90 --expt-extended-lambda --expt-relaxed-constexpr -Werror cross-execution-space-call -Xcompiler -Wall,-Werror,-Wno-reorder,-Wno-error=deprecated-declarations -DCUB_WRAPPER -Xcompiler=-fopenmp --define-macro USE_NVTX -O3 -DNDEBUG -std=c++17 --generate-code=arch=compute_60,code=[compute_60,sm_60] --generate-code=arch=compute_70,code=[compute_70,sm_70] --generate-code=arch=compute_75,code=[compute_75,sm_75] --generate-code=arch=compute_80,code=[compute_80,sm_80] --generate-code=arch=compute_86,code=[compute_86,sm_86] --generate-code=arch=compute_89,code=[compute_89,sm_89] --generate-code=arch=compute_90,code=[compute_90,sm_90] -x cu -c /home/z1ko/univr/tesi/cuhornet/hornetsnest/test/BFSTest2.cu -o CMakeFiles/bfs2.dir/test/BFSTest2.cu.o",
+  "file": "/home/z1ko/univr/tesi/cuhornet/hornetsnest/test/BFSTest2.cu",
+  "output": "CMakeFiles/bfs2.dir/test/BFSTest2.cu.o"
+},
+{
+  "directory": "/home/z1ko/univr/tesi/cuhornet/hornetsnest",
+  "command": "/usr/local/cuda-11.8/bin/nvcc -forward-unknown-to-host-compiler  --options-file CMakeFiles/dbfs.dir/includes_CUDA.rsp  -gencode arch=compute_60,code=sm_60 -gencode arch=compute_70,code=sm_70 -gencode arch=compute_75,code=sm_75 -gencode arch=compute_80,code=sm_80 -gencode arch=compute_86,code=sm_86 -gencode arch=compute_89,code=sm_89 -gencode arch=compute_90,code=sm_90 -gencode arch=compute_90,code=compute_90 --expt-extended-lambda --expt-relaxed-constexpr -Werror cross-execution-space-call -Xcompiler -Wall,-Werror,-Wno-reorder,-Wno-error=deprecated-declarations -DCUB_WRAPPER -Xcompiler=-fopenmp --define-macro USE_NVTX -O3 -DNDEBUG -std=c++17 --generate-code=arch=compute_60,code=[compute_60,sm_60] --generate-code=arch=compute_70,code=[compute_70,sm_70] --generate-code=arch=compute_75,code=[compute_75,sm_75] --generate-code=arch=compute_80,code=[compute_80,sm_80] --generate-code=arch=compute_86,code=[compute_86,sm_86] --generate-code=arch=compute_89,code=[compute_89,sm_89] --generate-code=arch=compute_90,code=[compute_90,sm_90] -x cu -c /home/z1ko/univr/tesi/cuhornet/hornetsnest/test/DBFSTest.cu -o CMakeFiles/dbfs.dir/test/DBFSTest.cu.o",
+  "file": "/home/z1ko/univr/tesi/cuhornet/hornetsnest/test/DBFSTest.cu",
+  "output": "CMakeFiles/dbfs.dir/test/DBFSTest.cu.o"
+},
+{
+  "directory": "/home/z1ko/univr/tesi/cuhornet/hornetsnest",
+  "command": "/usr/local/cuda-11.8/bin/nvcc -forward-unknown-to-host-compiler  --options-file CMakeFiles/neigh.dir/includes_CUDA.rsp  -gencode arch=compute_60,code=sm_60 -gencode arch=compute_70,code=sm_70 -gencode arch=compute_75,code=sm_75 -gencode arch=compute_80,code=sm_80 -gencode arch=compute_86,code=sm_86 -gencode arch=compute_89,code=sm_89 -gencode arch=compute_90,code=sm_90 -gencode arch=compute_90,code=compute_90 --expt-extended-lambda --expt-relaxed-constexpr -Werror cross-execution-space-call -Xcompiler -Wall,-Werror,-Wno-reorder,-Wno-error=deprecated-declarations -DCUB_WRAPPER -Xcompiler=-fopenmp --define-macro USE_NVTX -O3 -DNDEBUG -std=c++17 --generate-code=arch=compute_60,code=[compute_60,sm_60] --generate-code=arch=compute_70,code=[compute_70,sm_70] --generate-code=arch=compute_75,code=[compute_75,sm_75] --generate-code=arch=compute_80,code=[compute_80,sm_80] --generate-code=arch=compute_86,code=[compute_86,sm_86] --generate-code=arch=compute_89,code=[compute_89,sm_89] --generate-code=arch=compute_90,code=[compute_90,sm_90] -x cu -c /home/z1ko/univr/tesi/cuhornet/hornetsnest/test/NeighboursTest.cu -o CMakeFiles/neigh.dir/test/NeighboursTest.cu.o",
+  "file": "/home/z1ko/univr/tesi/cuhornet/hornetsnest/test/NeighboursTest.cu",
+  "output": "CMakeFiles/neigh.dir/test/NeighboursTest.cu.o"
+},
+{
+  "directory": "/home/z1ko/univr/tesi/cuhornet/hornetsnest",
+  "command": "/usr/local/cuda-11.8/bin/nvcc -forward-unknown-to-host-compiler  --options-file CMakeFiles/dbfs_benchmark.dir/includes_CUDA.rsp  -gencode arch=compute_60,code=sm_60 -gencode arch=compute_70,code=sm_70 -gencode arch=compute_75,code=sm_75 -gencode arch=compute_80,code=sm_80 -gencode arch=compute_86,code=sm_86 -gencode arch=compute_89,code=sm_89 -gencode arch=compute_90,code=sm_90 -gencode arch=compute_90,code=compute_90 --expt-extended-lambda --expt-relaxed-constexpr -Werror cross-execution-space-call -Xcompiler -Wall,-Werror,-Wno-reorder,-Wno-error=deprecated-declarations -DCUB_WRAPPER -Xcompiler=-fopenmp --define-macro USE_NVTX -O3 -DNDEBUG -std=c++17 --generate-code=arch=compute_60,code=[compute_60,sm_60] --generate-code=arch=compute_70,code=[compute_70,sm_70] --generate-code=arch=compute_75,code=[compute_75,sm_75] --generate-code=arch=compute_80,code=[compute_80,sm_80] --generate-code=arch=compute_86,code=[compute_86,sm_86] --generate-code=arch=compute_89,code=[compute_89,sm_89] --generate-code=arch=compute_90,code=[compute_90,sm_90] -x cu -c /home/z1ko/univr/tesi/cuhornet/hornetsnest/benchmark/DBFSBenchmark.cu -o CMakeFiles/dbfs_benchmark.dir/benchmark/DBFSBenchmark.cu.o",
+  "file": "/home/z1ko/univr/tesi/cuhornet/hornetsnest/benchmark/DBFSBenchmark.cu",
+  "output": "CMakeFiles/dbfs_benchmark.dir/benchmark/DBFSBenchmark.cu.o"
+}
+]
