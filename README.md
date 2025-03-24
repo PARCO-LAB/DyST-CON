@@ -1,5 +1,7 @@
 # DyST-CON: An Efficient Solution for GPUs to the ST-connectivity Problem on Dynamic Graphs
 
+[Paper](https://www.sciencedirect.com/science/article/pii/S0167865525000844)
+
 This repository contains the implementation for DyST-CON.
 
 ST-connectivity poses a decision problem, determining whether, for vertices *s* and *t* within a graph, *t* is reachable from *s*. The challenge arises in the context of dynamic real-world graphs that undergo rapid evolution over time. In these scenarios, repeatedly solving the s-t connectivity problem from the beginning after each graph modification becomes impractical. Although parallel solutions, especially designed for GPUs, have been introduced to tackle the size complexity of static graphs, none
@@ -15,6 +17,14 @@ The DyST-CON code is implemented by the [STCON.cuh](https://github.com/PARCO-LAB
 ./<executable> <graph_file> batch_size
 ```
 
-## Publication
+## Citation
 
-The link to the paper will be inserted when available.
+```
+@article{fraccaroli2025efficient,
+  title={An efficient solution for GPUs to the ST-connectivity problem on dynamic graphs},
+  author={Fraccaroli, Leonardo and Busato, Federico and Giugno, Rosalba and Bombieri, Nicola},
+  journal={Pattern Recognition Letters},
+  year={2025},
+  publisher={Elsevier}
+}
+```
